@@ -1,9 +1,9 @@
 <span id="a">Asith@AsithIshantha</span>:<span id="b">~</span><span id="c">$</span>cd <!-- kjsdfhkjdhsfkjdshfkj -->portfolio
 <span id="a">Asith@AsithIshantha</span>:<span id="b">~/portfolio</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->asithishantha.txt<br/><br/>
 
-Hey There! This is Asith Ishantha Madurawala's portflio website.<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+Hey There! This is Asith Ishantha Madurawala's portfolio website.<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
 
-<span id="a">Asith@AsithIshantha</span>:<span id="b">~/portfolio</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->intro.txt<br/><br/>
+<span id="a">Asith@AsithIshantha</span>:<span id="b">~/portfolio</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->Intro.txt<br/><br/>
 
 Hi, I'm Asith Ishantha Madurawala<br/>
 アシットです。よろしくお願いします。
@@ -12,13 +12,13 @@ Grew up in Ja Ela, Sri Lanka.
 Now,    Undegraduate student of Future University Hakodate,Japan.
 Future, I want to be a full time system developer.
 
-<span id="a">Asith@AsithIshantha</span>:<span id="b">~/portfolio</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->experience.txt<br/><br/>
+<span id="a">Asith@AsithIshantha</span>:<span id="b">~/portfolio</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->Experience.txt<br/><br/>
 
 2020 - 2021 : Software Engineer Intern, Hsenid Outsourcing (PVT),Ltd.
 2019 - Sri Lanka Representative, Sakura Science Organization,Japan.
 
 
-<span id="a">Asith@AsithIshantha</span>:<span id="b">~/portfolio</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->education.txt<br/><br/>
+<span id="a">Asith@AsithIshantha</span>:<span id="b">~/portfolio</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->Education.txt<br/><br/>
 
 2021- Present
 BSc (Hons.) Information System(Reading)
@@ -36,7 +36,7 @@ SLIIT, Sri Lanka
 Grade point average : 2.56
 
 
-<span id="a">Asith@AsithIshantha</span>:<span id="b">~/portfolio</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->language.txt<br/><br/>
+<span id="a">Asith@AsithIshantha</span>:<span id="b">~/portfolio</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->Language.txt<br/><br/>
 
 Sinhala : 4/5 => Native
 English : 3/5 => Intermediate
@@ -44,13 +44,13 @@ Japanese : 3/5 => Intermediate, JLPT N2 knowledge (Reading IT Bachelor degree in
 
 
 
-<span id="a">Asith@AsithIshantha</span>:<span id="b">~/portfolio</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->programmingSkills.txt<br/><br/>
+<span id="a">Asith@AsithIshantha</span>:<span id="b">~/portfolio</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->ProgrammingSkills.txt<br/><br/>
 
 Now, Expertise about ANN, KMeans, KNN, .Net C#, Python, Matlab, Java, C, Wordpress, HTML CSS JS, Pebble Template, Selenium, WebScraping, Postman, MVC
 Backend  => 6/10
 Frontend => 7/10
 
-<span id="a">Asith@AsithIshantha</span>:<span id="b">~/portfolio</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->programmingLanguges.txt<br/><br/>
+<span id="a">Asith@AsithIshantha</span>:<span id="b">~/portfolio</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->ProgrammingLanguages.txt<br/><br/>
 
 Advanced => HTML CSS JS,Python, Jupyter Notebook
 Intermediate => Java, C++, PHP, C#, Matlab, C, Git, Bash Script
